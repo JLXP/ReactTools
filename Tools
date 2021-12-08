@@ -1,0 +1,43 @@
+Instalaciones recomendadas - Curso de React
+Instalaciones Necesarias
+Google Chrome
+
+React Developer Tools
+
+Redux Devtools
+
+Visual Studio Code
+
+Postman
+
+Mongo Compass
+
+Git
+
+Node
+
+Extensiones de VSCode
+Activitus Bar
+
+Configuración del Bracket Pair Colorizer 2
+Bracket Pair Colorizer 2
+
+"bracket-pair-colorizer-2.colors": [
+    "#fafafa",
+    "#9F51B6",
+    "#F7C244",
+    "#F07850",
+    "#9CDD29",
+    "#C497D4"
+],
+Tema que estoy usando en VSCode:
+Monokai Night
+
+Iconos
+
+Instalaciones recomendadas sobre React
+ES7 React/Redux
+
+Simple React Snippets
+
+Auto Close Tag
