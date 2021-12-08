@@ -1,4 +1,4 @@
-Instalaciones recomendadas - Curso de React
+<h1>Instalaciones recomendadas - Curso de React</h1>
 Instalaciones Necesarias
 Google Chrome
 
